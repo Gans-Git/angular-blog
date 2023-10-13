@@ -3,7 +3,7 @@ export const dataFake = [
     "id":"1",
     "title": "nova notícia",
     "description": "ble ble",
-    "photoCover": "https://static.wikia.nocookie.net/naruto/images/a/af/Aoba-Yamashiro.png/revision/latest?cb=20181031213411&path-prefix=pt-br"
+    "photoCover": "https://portalpopline.com.br/wp-content/uploads/2023/06/homem-aranha-4-2025.jpg"
   },
   {
     "id":"2",
